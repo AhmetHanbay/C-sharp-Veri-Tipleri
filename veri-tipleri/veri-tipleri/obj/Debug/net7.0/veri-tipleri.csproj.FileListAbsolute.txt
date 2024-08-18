@@ -1,0 +1,15 @@
+D:\c#_BTK\veri-tipleri\veri-tipleri\bin\Debug\net7.0\veri-tipleri.exe
+D:\c#_BTK\veri-tipleri\veri-tipleri\bin\Debug\net7.0\veri-tipleri.deps.json
+D:\c#_BTK\veri-tipleri\veri-tipleri\bin\Debug\net7.0\veri-tipleri.runtimeconfig.json
+D:\c#_BTK\veri-tipleri\veri-tipleri\bin\Debug\net7.0\veri-tipleri.dll
+D:\c#_BTK\veri-tipleri\veri-tipleri\bin\Debug\net7.0\veri-tipleri.pdb
+D:\c#_BTK\veri-tipleri\veri-tipleri\obj\Debug\net7.0\veri-tipleri.csproj.AssemblyReference.cache
+D:\c#_BTK\veri-tipleri\veri-tipleri\obj\Debug\net7.0\veri-tipleri.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#_BTK\veri-tipleri\veri-tipleri\obj\Debug\net7.0\veri-tipleri.AssemblyInfoInputs.cache
+D:\c#_BTK\veri-tipleri\veri-tipleri\obj\Debug\net7.0\veri-tipleri.AssemblyInfo.cs
+D:\c#_BTK\veri-tipleri\veri-tipleri\obj\Debug\net7.0\veri-tipleri.csproj.CoreCompileInputs.cache
+D:\c#_BTK\veri-tipleri\veri-tipleri\obj\Debug\net7.0\veri-tipleri.dll
+D:\c#_BTK\veri-tipleri\veri-tipleri\obj\Debug\net7.0\refint\veri-tipleri.dll
+D:\c#_BTK\veri-tipleri\veri-tipleri\obj\Debug\net7.0\veri-tipleri.pdb
+D:\c#_BTK\veri-tipleri\veri-tipleri\obj\Debug\net7.0\veri-tipleri.genruntimeconfig.cache
+D:\c#_BTK\veri-tipleri\veri-tipleri\obj\Debug\net7.0\ref\veri-tipleri.dll
